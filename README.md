@@ -37,5 +37,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🧑‍💻 Authors
 
-**[Adihtya V](https://github.com/itsadithyav)**  
+**[Adithya V](https://github.com/itsadithyav)**  
 **[Patnaikuni Gautam](https://github.com/Patnaikuni-Gautam)**  
