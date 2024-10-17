@@ -25,22 +25,17 @@ This project leverages a Raspberry Pi to create a smart router that not only ext
 - **[dnsmasq](https://thekelleys.org.uk/dnsmasq/doc.html)**: A lightweight DNS and DHCP server used to route and cache DNS requests efficiently.
 - **[Syncthing](https://syncthing.net/)**: Ensures secure file synchronization between your devices without relying on a third-party cloud provider.
 
-
 ## 📊 Usage
 
 - **Grafana Dashboards**: Monitor network traffic, packet flow, and performance metrics in real-time.
 - **Pi-hole**: Check blocked domains, and whitelist or blacklist specific websites from the admin panel.
 - **VPN with Tailscale**: Securely connect to your network remotely and access local resources without revealing your IP address.
-  
-## 💻 Configuration
-
-Configuration files for `hostapd`, `dnsmasq`, and other tools can be found in the `config` directory of this repository. These include examples of how to set up the network interfaces, firewalls, and VPN.
 
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🧑‍💻 Author
+## 🧑‍💻 Authors
 
 **[Adihtya V](https://github.com/itsadithyav)**  
-Data Science enthusiast.
+**[Patnaikuni Gautam](https://github.com/Patnaikuni-Gautam)**  
