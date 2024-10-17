@@ -40,11 +40,7 @@ Configuration files for `hostapd`, `dnsmasq`, and other tools can be found in th
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/smart-router/issues).
-
 ## 🧑‍💻 Author
 
-**[Your Name](https://github.com/your-username)**  
-Cybersecurity and Data Science enthusiast. Exploring network security, penetration testing, and data-driven solutions.
+**[Your Name](https://github.com/itsadithyav)**  
+Data Science enthusiast.
