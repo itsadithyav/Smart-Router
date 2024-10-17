@@ -25,43 +25,6 @@ This project leverages a Raspberry Pi to create a smart router that not only ext
 - **[dnsmasq](https://thekelleys.org.uk/dnsmasq/doc.html)**: A lightweight DNS and DHCP server used to route and cache DNS requests efficiently.
 - **[Syncthing](https://syncthing.net/)**: Ensures secure file synchronization between your devices without relying on a third-party cloud provider.
 
-## 🛠️ Installation
-
-### Prerequisites:
-- Raspberry Pi 3 or 4 with Raspbian OS installed
-- Basic knowledge of Linux, SSH, and networking
-- Access to an existing Wi-Fi network for extending
-
-### Step-by-step Guide:
-
-1. **Update your Raspberry Pi**:
-    ```bash
-    sudo apt-get update && sudo apt-get upgrade
-    ```
-
-2. **Install hostapd and dnsmasq** for turning your Raspberry Pi into a Wi-Fi hotspot:
-    ```bash
-    sudo apt-get install hostapd dnsmasq
-    ```
-
-3. **Set up Pi-hole** for ad-blocking:
-    ```bash
-    curl -sSL https://install.pi-hole.net | bash
-    ```
-
-4. **Configure Tailscale** for VPN:
-    ```bash
-    curl -fsSL https://tailscale.com/install.sh | sh
-    ```
-
-5. **Install Prometheus and Grafana** for network monitoring:
-    - Follow the official [Prometheus installation guide](https://prometheus.io/docs/prometheus/latest/installation/).
-    - Install Grafana from their [official site](https://grafana.com/grafana/download).
-
-6. **Set up Syncthing** for secure file synchronization:
-    ```bash
-    sudo apt install syncthing
-    ```
 
 ## 📊 Usage
 
