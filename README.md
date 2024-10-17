@@ -3,7 +3,7 @@
 
 ### A Raspberry Pi-based Smart Router for Enhanced Security, Privacy, and Monitoring
 
-![Smart Router](path_to_image.png)
+![Smart Router](raspberry_pi_project.jpg)
 
 This project leverages a Raspberry Pi to create a smart router that not only extends your Wi-Fi range but also offers VPN capabilities, ad-blocking, and advanced network monitoring. It integrates a suite of tools to ensure secure, private, and optimized internet access for all connected devices.
 
