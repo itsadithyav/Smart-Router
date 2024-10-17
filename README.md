@@ -47,5 +47,6 @@ A special thanks to **[Vivek Sharma](https://github.com/ifsvivek)**   for his in
 
 ## 🧑‍💻 Author
 
-**[V Adithya](https://github.com/itsadithyav)**  
-**[Patnaikuni Gautam](https://github.com/Patnaikuni-Gautam)** 
+**[Patnaikuni Gautam - Team Leader](https://github.com/Patnaikuni-Gautam)** 
+**[V Adithya - Developer](https://github.com/itsadithyav)**  
+
