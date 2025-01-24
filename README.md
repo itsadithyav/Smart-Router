@@ -1,4 +1,4 @@
-# Smart Router with VPN and Network Monitoring System
+# Smart Network Hub: VPN, Ad-Blocking, and Advanced Monitoring System
 
 ### A Raspberry Pi-based Smart Router for Enhanced Network Security, Privacy, and Monitoring
 
